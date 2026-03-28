@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm Devanarayanan B 👋
 
-<!--
-**Devanarayananb/Devanarayananb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Academic Background
+* **University** Vellore Institute of Technology Bhopal, Sehore, Madhya 
+* **Branch:** Integrated Mtech in Computer Science and Engineering (Cyber Security)
+* **Year:** 2025
 
-Here are some ideas to get you started:
+### 🎯 My Goals
+I hope to excel in **CyberSecurity** and by the end of 2030 I will cover the most branches of *CyberSecurity* and focusing mainly on Penetration Testing and Ethical Hacking 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+* **Languages:** Python
+* **Interests:** Cybersecurity
+
+### 📫 How to reach me
+* **LinkedIn:** https://www.linkedin.com/in/cyberdev007/
+* **Email:** devanarayananb007@gmail.com
