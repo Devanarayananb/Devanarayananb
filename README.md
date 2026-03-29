@@ -11,8 +11,8 @@ I hope to excel in **CyberSecurity** and by the end of 2030 I will cover the mos
 ---
 
 ### 🛠️ Tech Stack
-* **Languages:** Python
-* **Interests:** Cybersecurity
+* **Languages:** Python | SQL
+* **Interests:** Cybersecurity | Ethical Hacking
 
 ### 📫 How to reach me
 * **LinkedIn:** https://www.linkedin.com/in/cyberdev007/
